@@ -1,0 +1,5 @@
+Monte-Carlo simulation of nuclear fission in U-235 done for a experimental physics module.
+
+1. Estimates the critical mass of U-235 in 1D and 3D
+2. Estimates for a cube and sphere
+3. Estimates when a reflective surface is placed at the edge of sample (albedo)
